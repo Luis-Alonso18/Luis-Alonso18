@@ -7,22 +7,26 @@
 
 #### Gusto de visitar el perfil del Alumno 🎓Alonso Villegas Luis Antonio🎓
 
+_Actualmente estoy cursando una Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana_ 🏫📕✏️
 
-
-#### 💻Lenguajes de programacion utilizados:
+### 💻Lenguajes de programacion utilizados:
 - C# nivel avanzado
 - java nivel básico
 - C++ nivel básico
 - kotlin nivel básico
 
-#### 💾Programas en los que participo como estudiante:
+
+### 💾Programas en los que participo como estudiante:
 - Apple University Programm 
 - Amazon Web Services AWSEducate 
 - Jetbrains Suite
 - Termius
 
-#### 📚Cursos:
+
+### 📚Cursos:
 - C++ (Cursando)
+
+
 
 ### ⏰Horario
 |            |  **Lunes** | **Martes**  | **Miercoles**   | **Jueves** |
@@ -41,6 +45,6 @@
 
 
 
-#### ❓Contacto:
+##### ❓Contacto:
 📧 Email: luis.alonso18@tectijuana.edu.mx
 
