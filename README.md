@@ -7,6 +7,8 @@
 
 #### Gusto de visitar el perfil del Alumno 🎓Alonso Villegas Luis Antonio🎓
 
+
+
 #### 💻Lenguajes de programacion utilizados:
 - C# nivel avanzado
 - java nivel básico
@@ -24,8 +26,8 @@
 
 ### ⏰Horario
 |            |  **Lunes** | **Martes**  | **Miercoles**   | **Jueves** |
-|---         |---                           |---|---|---|
-|  8:00| Investigación de operaciones | Investigación de operaciones  | Investigación de operaciones  | Investigación de operaciones  |
+|:---:|:---:|:---:|:---:|:---:|
+|  8:00|Investigación de operaciones| Investigación de operaciones  | Investigación de operaciones  | Investigación de operaciones  |
 | 9:00|   |   |   |   |
 | 10:00|   |   |   |   |
 | 11:00|   |   |   |   |
