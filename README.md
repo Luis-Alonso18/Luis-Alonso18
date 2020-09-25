@@ -7,7 +7,9 @@
 
 #### Gusto de visitar el perfil del Alumno 🎓Alonso Villegas Luis Antonio🎓
 
-_Actualmente estoy cursando una Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana_ 🏫📕✏️
+_Actualmente tengo 20 años y estoy estudiando una Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana_ 🏫📕✏️
+
+_Me gusta todo lo referente a la informatica sobre todo me llama la atención en el campo de la seguridad_ 💻🔐
 
 ### 💻Lenguajes de programacion utilizados:
 - C# nivel avanzado
