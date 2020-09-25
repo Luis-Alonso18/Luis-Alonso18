@@ -22,5 +22,23 @@
 #### 📚Cursos:
 - C++ (Cursando)
 
+### ⏰Horario
+|            |  **Lunes** | **Martes**  | **Miercoles**   | **Jueves** |
+|---         |---                           |---|---|---|
+|  8:00| Investigación de operaciones | Investigación de operaciones  | Investigación de operaciones  | Investigación de operaciones  |
+| 9:00|   |   |   |   |
+| 10:00|   |   |   |   |
+| 11:00|   |   |   |   |
+| 12:00|   |   |   |   |
+| 13:00|  Taller de base de datos |Taller de base de datos   |Taller de base de datos   | Taller de base de datos  |
+| 14:00|  Lenguajes de interfaz |Lenguajes de interfaz   | Lenguajes de interfaz  | Lenguajes de interfaz  |
+| 15:00| Fundamentos de ingeniería de software  | Fundamentos de ingeniería de software   |  Fundamentos de ingeniería de software  | Fundamentos de ingeniería de software   |
+| 16:00|  Graficación | Graficación  | Graficación  |  Graficación |
+| 17:00  | Fundamentos de telecomunicaciones  | Fundamentos de telecomunicaciones  | Fundamentos de telecomunicaciones  | Fundamentos de telecomunicaciones  |
+
+
+
+
 #### ❓Contacto:
 📧 Email: luis.alonso18@tectijuana.edu.mx
+
