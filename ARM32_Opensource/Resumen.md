@@ -13,7 +13,9 @@ llevándose ARM Holdings un pequeño porcentaje por la licencia.
 **Registros**
 La arquitectura ARMv6 presenta un conjunto de 17 registros (16 principales más
 uno de estado) de 32 bits cada uno.
-[FOTO]
+
+![](Imagenes/Figura1.1.jpg)
+
 
 **Registros Generales.** Su función es el almacenamiento temporal de datos. Son los
 13 registros que van R0 hasta R12.
