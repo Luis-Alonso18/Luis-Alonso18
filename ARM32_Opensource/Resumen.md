@@ -1,4 +1,4 @@
-## 1.1.1. Características generales de la arquitectura ARM
+## **1.1.1. Características generales de la arquitectura ARM**
 
 ARM es una arquitectura RISC (Reduced Instruction Set Computer=Ordenador
 con Conjunto Reducido de Instrucciones) de 32 bits, salvo la versión del core ARMv8-
@@ -9,23 +9,26 @@ llevándose ARM Holdings un pequeño porcentaje por la licencia.
 
 ![](Imagenes/Tabla1.1.jpg)
 
-Registros
+
+**Registros**
 La arquitectura ARMv6 presenta un conjunto de 17 registros (16 principales más
 uno de estado) de 32 bits cada uno.
 [FOTO]
 
-Registros Generales. Su función es el almacenamiento temporal de datos. Son los
+**Registros Generales.** Su función es el almacenamiento temporal de datos. Son los
 13 registros que van R0 hasta R12.
-Registros Especiales. Son los últimos 3 registros principales: R13, R14 y R15.
+**Registros Especiales.** Son los últimos 3 registros principales: R13, R14 y R15.
 Como son de propósito especial, tienen nombres alternativos.
-SP/R13. Stack Pointer ó Puntero de Pila. Sirve como puntero para almacenar variables locales y registros en llamadas a funciones.
-LR/R14. Link Register ó Registro de Enlace. Almacena la dirección de
+  - **SP/R13.** Stack Pointer ó Puntero de Pila. Sirve como puntero para almacenar variables locales y registros en llamadas a funciones.
+  - **LR/R14.** Link Register ó Registro de Enlace. Almacena la dirección de
 retorno cuando una instrucción BL ó BLX ejecuta una llamada a una
 rutina.
-PC/R15. Program Counter ó Contador de Programa. Es un registro que
+  - **PC/R15.** Program Counter ó Contador de Programa. Es un registro que
 indica la posición donde está el procesador en su secuencia de instrucciones. Se incrementa de 4 en 4 cada vez que se ejecuta una instrucción,
 salvo que ésta provoque un salto.
-Registro CPSR. Almacena las banderas condicionales y los bits de control. Los
+
+
+**Registro CPSR.** Almacena las banderas condicionales y los bits de control. Los
 bits de control definen la habilitación de interrupciones normales (I), interrupciones rápidas (F), modo Thumb 1
 (T) y el modo de operación de la CPU.
 Existen hasta 8 modos de operación, pero por ahora desde nuestra aplicación
@@ -38,10 +41,10 @@ si queremos que una instrucción actualice o no las banderas condicionales,
 poniendo una “s” detrás del nemotécnico 
 Existen 4 banderas y son las
 siguientes:
-N. Se activa cuando el resultado es negativo.
-Z. Se activa cuando el resultado es cero o una comparación es cierta.
-C. Indica acarreo en las operaciones aritméticas.
-V. Desbordamiento aritmético.
+  - **N.** Se activa cuando el resultado es negativo.
+  - **Z.** Se activa cuando el resultado es cero o una comparación es cierta.
+  - **C.** Indica acarreo en las operaciones aritméticas.
+  - **V.** Desbordamiento aritmético.
 
 
 ## 1.1.2. El lenguaje ensamblador
