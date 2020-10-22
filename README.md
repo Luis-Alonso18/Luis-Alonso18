@@ -26,7 +26,7 @@ _Me gusta todo lo referente a la informatica sobre todo me llama la atención en
 
 
 ### 📚Cursos:
-- C++ (Cursando)
+- C++ (![](https://www.sololearn.com/Certificate/1051-10608935/pdf/) )
 
 
 
