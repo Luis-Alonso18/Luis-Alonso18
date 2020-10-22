@@ -7,7 +7,7 @@ arquitectura licenciable, quiere decir que la empresa desarrolladora ARM Holding
 diseña la arquitectura, pero son otras compañías las que fabrican y venden los chips,
 llevándose ARM Holdings un pequeño porcentaje por la licencia.
 
-![](Imagenes/tabla1.1.jpg)
+![](ARM32_Opensource/Imagenes/tabla1.1.jpg)
 
 Registros
 La arquitectura ARMv6 presenta un conjunto de 17 registros (16 principales más
