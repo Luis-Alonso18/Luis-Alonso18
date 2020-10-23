@@ -196,7 +196,7 @@ main : ldr r0, = var1 /* r0 <- & var1 */
 En la siguiente tabla se recogen los diferentes tipos de datos básicos que podrán aparecer en los ejemplos, así como su
 tamaño y rango de representación.
 
-![](Imagenes/tiposdedatosbasicos.jpg)
+![](Imagenes/tipodedatosbasicos.jpg)
 
 **Punteros** 
 Un puntero siempre ocupa 32 bits y contiene una dirección de memoria.
@@ -242,7 +242,7 @@ de alto nivel que definen un bucle (for, while, . . . ), así como las condicion
 (if-else).
 
 
-### Listado 2.1: Estructura del for y while en C (tipos1.c)
+#### Listado 2.1: Estructura del for y while en C (tipos1.c)
 
 ```c
 int vi, vf, i;
@@ -256,7 +256,7 @@ while (i <= vf) {
 }
 ```
 
-### Listado 2.2: Traducción de las estructuras for y while.
+#### Listado 2.2: Traducción de las estructuras for y while.
 
 ```s
 ldr r1, = vi
@@ -273,7 +273,7 @@ bhi salir
 salir :
 ```
 
-### Listado 2.3: Estructura if en C (tipos2.c)
+#### Listado 2.3: Estructura if en C (tipos2.c)
 
 ```c
 int a, b;
@@ -284,7 +284,7 @@ if (a == b) {
 }
 ```
 
-### Listado 2.4: Traducción de la estructura if
+#### Listado 2.4: Traducción de la estructura if
 
 ```s
 ldr r1, = a
@@ -306,7 +306,7 @@ el caso de gcc este proceso se hace en dos fases: en una primera se pasa de C a
 ensamblador, y en una segunda de ensambladador a código compilado (código máquina). 
 
 
-### Listado 2.5: Código del programa tipos3.c
+#### Listado 2.5: Código del programa tipos3.c
 
 ```c
 # include < stdio.h >
@@ -318,7 +318,7 @@ ensamblador, y en una segunda de ensambladador a código compilado (código máq
   }
 ```
 
-### Listado 2.6: Código del programa tipos3a.s
+#### Listado 2.6: Código del programa tipos3a.s
 
 
 ```s
@@ -337,7 +337,7 @@ main :  push { r4, lr }
         pop { r4, pc }
 ```
 
-### Listado 2.7: Código del programa tipos3b.s
+#### Listado 2.7: Código del programa tipos3b.s
 ```s
 .data
 var1 : .asciz " %d\ 012 "
@@ -367,7 +367,7 @@ En este primer apartado, estudiaremos un bucle que calcula la suma de todos los
 elementos de un vector. El vector se denomina vector y tiene 5 elementos de tipo
 int (entero de 32 bits). 
 
-### Listado 2.8: Suma de elementos de un vector (tipos4.c)
+#### Listado 2.8: Suma de elementos de un vector (tipos4.c)
 ```c
 # include < stdio.h >
   void main(void) {
@@ -386,7 +386,7 @@ int (entero de 32 bits).
   }
 ```
 
-### Listado 2.9: Suma de elementos de un vector (tipos4.s)
+#### Listado 2.9: Suma de elementos de un vector (tipos4.s)
 
 ```s
 .data
@@ -412,7 +412,7 @@ main :  push { r4, lr }
         pop { r4, lr }
         bx lr
 ```
-### Listado 2.10: Suma de un vector de enteros largos (tipos6.s)
+#### Listado 2.10: Suma de un vector de enteros largos (tipos6.s)
 
 ```s
 .data
