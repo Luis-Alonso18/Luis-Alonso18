@@ -4,7 +4,7 @@
     @@ Ing. En Sistemas Computacionales
     @@   
     @@ Autor : Alonso Villegas Luis Antonio @nickname Luis-Alonso18
-    @@ Repositorio: http://github.com/tectijuana/Luis-Alonso18/ARM32_Opensource
+    @@ Repositorio: http://github.com/tectijuana/Luis-Alonso18/ARM32_Opensource/Códigos
     @@ Fecha de revisión: 22/10/2020
     @@ 
     @
