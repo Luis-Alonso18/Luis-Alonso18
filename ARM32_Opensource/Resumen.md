@@ -1,4 +1,4 @@
-![](imagenes/cooltextTitulo.png)
+![](Imagenes/cooltextTitulo.png)
 
 
 ## **1.1.1. Características generales de la arquitectura ARM**
