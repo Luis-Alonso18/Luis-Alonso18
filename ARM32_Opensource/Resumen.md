@@ -1,3 +1,6 @@
+![](imagenes/cooltextTitulo)
+
+
 ## **1.1.1. Características generales de la arquitectura ARM**
 
 ARM es una arquitectura RISC (Reduced Instruction Set Computer=Ordenador
